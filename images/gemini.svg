@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="t d">
+<title id="t">GEMINI</title>
+<desc id="d">Research • Compare • Create</desc>
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#0891b2"/><stop offset="1" stop-color="#2563eb"/></linearGradient></defs>
+<rect width="1200" height="700" rx="36" fill="url(#g)"/>
+<circle cx="930" cy="340" r="190" fill="#fff" opacity=".12"/>
+<circle cx="930" cy="340" r="115" fill="#fff" opacity=".18"/>
+<text x="930" y="378" text-anchor="middle" font-family="Arial" font-size="108" font-weight="700" fill="#fff">G</text>
+<text x="80" y="235" font-family="Arial" font-size="70" font-weight="700" fill="#fff">GEMINI</text>
+<text x="82" y="305" font-family="Arial" font-size="30" fill="#fff">Research • Compare • Create</text>
+</svg>
